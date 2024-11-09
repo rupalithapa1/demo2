@@ -10,3 +10,4 @@ steps to setup project:
 1.to check which branches are present: git branch
 2.creating new branch: git checkout -b name_of_branch
 3.when pushing to a new branch: git push origin name_of_branch
+4.when pulling from a new branch: git pull origin name_of_branch
